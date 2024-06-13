@@ -4,6 +4,8 @@ If you see something you would like to change, open an issue or (better) make a 
 
 ---
 
+* indicates that I have not obtained access to the book yet
+
 ***Cases involving prominent lawyers***
 
 Kevin Egan cases: 
@@ -24,6 +26,8 @@ HKSAR v Wong Chi Wai
 - No property in a witness
 
 ***Non-fiction books***
+- [Another Disaster](https://en.wikipedia.org/wiki/Denys_Roberts) by Denys Roberts, former AG, CS, CJ in Hong Kong
+- [I Rest My Case: A Memoir](https://books.google.com.hk/books/about/I_Rest_My_Case.html?id=OIG4jwEACAAJ&redir_esc=y) by Neil Kaplan, former judge of the Construction and Arbitration List
 - [How we are Judged](https://www.cityu.edu.hk/upress/how-are-we-judged) by Benjamin T. M. Liu, Justice of Appeal
 - [First Thing We Do-- Let's Kill All the Lawyers](https://www.abebooks.com/first-edition/First-Thing-Do---Kill-Lawyers-Gary/14494316475/bd) by  Gary Alderdice KC
 
