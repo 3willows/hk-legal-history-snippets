@@ -1,6 +1,6 @@
-An excuse for lawyers to learn git, a widely used tool amongst software developers.
+An excuse for lawyers to learn how to use git with [github](https://www.youtube.com/watch?v=pBy1zgt0XPc), a widely used tool amongst software developers.
 
-If you see something you would like to change, open an issue or (better) make a pull request!
+If you see something you would like to change, [open an issue](https://github.com/3willows/hk-legal-history-snippets/issues) or (better) [make a pull request](https://github.com/3willows/hk-legal-history-snippets/pulls)!
 
 ---
 
