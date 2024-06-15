@@ -13,7 +13,7 @@ Judges
 - [Another Disaster](https://en.wikipedia.org/wiki/Denys_Roberts) by Denys Roberts, former AG, CS, CJ in Hong Kong #
 - [How we are Judged](https://www.cityu.edu.hk/upress/how-are-we-judged) by Benjamin T. M. Liu, Justice of Appeal
 - [I Rest My Case: A Memoir](https://books.google.com.hk/books/about/I_Rest_My_Case.html?id=OIG4jwEACAAJ&redir_esc=y) by Neil Kaplan, former judge of the Construction and Arbitration List *
-- [Justice without fear or favour : reflections of a Chinese magistrate in colonial Hong Kong 剛正不阿](https://billsiu.blogspot.com/2011/07/blog-post_20.html) by Magistrate Marjorie Chui
+- [Justice without fear or favour : reflections of a Chinese magistrate in colonial Hong Kong (剛正不阿)](https://billsiu.blogspot.com/2011/07/blog-post_20.html) by Magistrate Marjorie Chui
 
 Counsel
 - [First Thing We Do-- Let's Kill All the Lawyers](https://www.abebooks.com/first-edition/First-Thing-Do---Kill-Lawyers-Gary/14494316475/bd) by  Gary Alderdice KC
@@ -33,21 +33,18 @@ Counsel
 
 ***Some high profile cases concerning lawyers***
 
-Kevin Egan cases: 
+Kevin Egan cases
 - [R v Egan](https://billsiu.blogspot.com/2013/06/blog-post_2.html) a pre-handover criminal trial against Egan.  See [The Kevin Egan' case: an analysis from a criminal justice system perspective](https://hub.hku.hk/handle/10722/28045), a HKU Masters thesis by  Dr. B.C. Connell
 
 - [HKSAR v Egan & Others](https://www.news.gov.hk/isd/ebulletin/en/category/lawandorder/html/8e0362f1-5484-41ac-8e06-8941318e0129.htm) Egan was prosecuted for attempting to disclose information about the identity of a participant in the witness protection programme.  Convicted at first instance, acquitted on appeal
 
 Donald Koo cases
-
-- [Kao, Lee & Yip (A Firm) v Donald Koo Hoi-yan](https://webb-site.com/dbpub/artlinks.asp?s=3145))restrictive convenant; contempt
+- [Kao, Lee & Yip (A Firm) v Donald Koo Hoi-yan](https://webb-site.com/dbpub/artlinks.asp?s=3145) restrictive convenant; contempt
 - [Various Shanghai Land defendants v HKSAR](https://webb-site.com/dbpub/artlinks.asp?s=5984) co-conspirators rule; professional advisors declared "without any cloud over his or her innocence" by CFA.
 
 Pang Yiu-hung Robert v. Commissioner of Police & anor [2003] 2 HKLRD 125
-
 - LPP and warrant
 
 HKSAR v Wong Chi Wai
-
 - No property in a witness
   
