@@ -42,9 +42,9 @@ Donald Koo cases
 - [Kao, Lee & Yip (A Firm) v Donald Koo Hoi-yan](https://webb-site.com/dbpub/artlinks.asp?s=3145) restrictive convenant; contempt
 - [Various Shanghai Land defendants v HKSAR](https://webb-site.com/dbpub/artlinks.asp?s=5984) co-conspirators rule; professional advisors declared "without any cloud over his or her innocence" by CFA.
 
-Pang Yiu-hung Robert v. Commissioner of Police & anor [2003] 2 HKLRD 125
-- LPP and warrant
+[Pang Yiu-hung Robert v. Commissioner of Police & anor [2003] 2 HKLRD 125](https://legalref.judiciary.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=23638&QS=%28%7BPang+Yiu%5C-%5Chung+Robert%7D+%25parties%29%7C%28Pang%2CYiu-hung%2CRobert%29&TP=JU)
+- LPP and warrant; arret of a barrister (later to become SC) declared unlawful.
 
-HKSAR v Wong Chi Wai
-- No property in a witness
+[HKSAR v Wong Chi Wai](https://endlesslawstudy.blogspot.com/2014/07/hksar-v.html)
+- No property in a witness; D eventually acquitted for contact with prosecution witness
   
