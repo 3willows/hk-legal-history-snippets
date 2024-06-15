@@ -4,26 +4,9 @@ If you see something you would like to change, [open an issue](https://github.co
 
 ---
 
-***Cases involving prominent lawyers***
+A selection of intersting materials for lawyers/law students in Hong Kong
 
-Kevin Egan cases: 
-- [R v Egan](https://billsiu.blogspot.com/2013/06/blog-post_2.html) a pre-handover criminal trial against Egan.  See [The Kevin Egan' case: an analysis from a criminal justice system perspective](https://hub.hku.hk/handle/10722/28045), a HKU Masters thesis by  Dr. B.C. Connell
-
-- [HKSAR v Egan & Others](https://www.news.gov.hk/isd/ebulletin/en/category/lawandorder/html/8e0362f1-5484-41ac-8e06-8941318e0129.htm) Egan was prosecuted for attempting to disclose information about the identity of a participant in the witness protection programme.  Convicted at first instance, acquitted on appeal
-
-Donald Koo cases
-
-- Civil case to the CFA 
-- Criminal case to the CFA
-
-Robert Pang case
-
-- LPP and warrant
-
-HKSAR v Wong Chi Wai
-- No property in a witness
-
-***Non-fiction books by lawyers***
+***Non-fiction***
 
 Judges
 - [Recollections](https://www.sweetandmaxwell.com.hk/BookStore/showProduct.asp?countrycode=HK&id=2258&subjID=&ptab=1&bookstore=1&g=l15e43&ec=QSNBGDKTJJVZRUJQFVYJZLEDBTVQRLIGGGRYABQHEUINZJSCRSLOATPHUG) by Kemal Bokhary NPJ
@@ -39,5 +22,32 @@ Counsel
 ***Blogs***
 - [Bill Siu Blog](https://billsiu.blogspot.com/) Chinese language blog by a former magistrate, Bill Siu, mainly about criminal law and practice
 
+***Fiction***
+
+- [Old filth](https://headbutler.com/reviews/jane-gardam-old-filth/)  Novel about an imaginary barrister who became a judge in colonial Hong Kong
+- [City of the Queen](https://hkupress.hku.hk/index.php?route=product/product&product_id=1192) a condensed English translation of a trilogy of Chinese-langauge novels, featuring an imaginary first Chinese judge on the Hong Kong Supreme Court
+
+  
 \* indicates I have not got access to the book yet: let me know where to borrow it.
 \# indicates I read it more than once.
+
+***Some high profile cases concerning lawyers***
+
+Kevin Egan cases: 
+- [R v Egan](https://billsiu.blogspot.com/2013/06/blog-post_2.html) a pre-handover criminal trial against Egan.  See [The Kevin Egan' case: an analysis from a criminal justice system perspective](https://hub.hku.hk/handle/10722/28045), a HKU Masters thesis by  Dr. B.C. Connell
+
+- [HKSAR v Egan & Others](https://www.news.gov.hk/isd/ebulletin/en/category/lawandorder/html/8e0362f1-5484-41ac-8e06-8941318e0129.htm) Egan was prosecuted for attempting to disclose information about the identity of a participant in the witness protection programme.  Convicted at first instance, acquitted on appeal
+
+Donald Koo cases
+
+- [Kao, Lee & Yip (A Firm) v Donald Koo Hoi-yan](https://webb-site.com/dbpub/artlinks.asp?s=3145))restrictive convenant; contempt
+- [Various Shanghai Land defendants v HKSAR](https://webb-site.com/dbpub/artlinks.asp?s=5984) co-conspirators rule; professional advisors declared "without any cloud over his or her innocence" by CFA.
+
+Pang Yiu-hung Robert v. Commissioner of Police & anor [2003] 2 HKLRD 125
+
+- LPP and warrant
+
+HKSAR v Wong Chi Wai
+
+- No property in a witness
+  
