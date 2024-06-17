@@ -18,18 +18,26 @@ Judges
 Counsel
 - [First Thing We Do-- Let's Kill All the Lawyers](https://www.abebooks.com/first-edition/First-Thing-Do---Kill-Lawyers-Gary/14494316475/bd) by  Gary Alderdice KC
 - [A Seventh Child and the Law (與法有緣)](https://hkupress.hku.hk/index.php?route=product/product&product_id=1471) # and [Tales from No. 9 Ice House Street (法訟趣聞：雪廠街九號的故事)](https://hkupress.hku.hk/Tales_from_9_Ice_House_Street) # by Patrick Yu
+- [From Hackney to Hong Kong—The Story of a Lucky Man](https://hkupress.hku.hk/index.php?route=product/product&product_id=553) by Clive Grossman SC
 
 ***Blogs***
+
 - [Bill Siu Blog](https://billsiu.blogspot.com/) Chinese language blog by a former magistrate, Bill Siu, mainly about criminal law and practice
 
 ***Fiction***
 
+- [Game for Vultures](https://en.wikipedia.org/wiki/Game_for_Vultures)  Page-turner made into a film authored by Michael Hartmann, a Rhodesian attorney who rose to become an NPJ on the Hong Kong Court of Final Appeal
 - [Old filth](https://headbutler.com/reviews/jane-gardam-old-filth/)  Novel about an imaginary barrister who became a judge in colonial Hong Kong
 - [City of the Queen](https://hkupress.hku.hk/index.php?route=product/product&product_id=1192) a condensed English translation of a trilogy of Chinese-langauge novels, featuring an imaginary first Chinese judge on the Hong Kong Supreme Court
 
   
 \* indicates I have not got access to the book yet: let me know where to borrow it.
 \# indicates I read it more than once.
+
+
+***Popular music***
+
+- [為你鍾情](https://www.youtube.com/watch?v=lkd06VLJGQg) classic Cantopop by Leslie Cheung, written by Ching Y Wong who rose to become a QC.
 
 ***Some high profile cases concerning lawyers***
 
