@@ -14,6 +14,7 @@ Judges
 - [How we are Judged](https://www.cityu.edu.hk/upress/how-are-we-judged) by Benjamin T. M. Liu, Justice of Appeal
 - [I Rest My Case: A Memoir](https://books.google.com.hk/books/about/I_Rest_My_Case.html?id=OIG4jwEACAAJ&redir_esc=y) by Neil Kaplan, former judge of the Construction and Arbitration List *
 - [Justice without fear or favour : reflections of a Chinese magistrate in colonial Hong Kong (剛正不阿)](https://billsiu.blogspot.com/2011/07/blog-post_20.html) by Magistrate Marjorie Chui
+- [Myself a Mandarin](https://global.oup.com/academic/product/myself-a-mandarin-9780195841992?lang=3n&cc=bg) by Austin Coates, an Englishman unexpected  appointed magistrate in a country district in New Territories, where he was charged with applying Qing law to settle local disputes. 
 
 Counsel
 - [First Thing We Do-- Let's Kill All the Lawyers](https://www.abebooks.com/first-edition/First-Thing-Do---Kill-Lawyers-Gary/14494316475/bd) by  Gary Alderdice KC
