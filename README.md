@@ -2,6 +2,8 @@ An excuse for lawyers to learn how to use git with [github](https://www.youtube.
 
 If you see something you would like to change, [open an issue](https://github.com/3willows/hk-legal-history-snippets/issues) or (better) [make a pull request](https://github.com/3willows/hk-legal-history-snippets/pulls)!
 
+Advanced: use git branches as per [this video](https://www.youtube.com/watch?v=uj8hjLyEBmU).
+
 ---
 
 A selection of intersting materials for lawyers/law students in Hong Kong
